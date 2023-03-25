@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+body {
+    background-color: rgb(152, 129, 252);
+    padding: 50px;
+}
+h1 {
+    font-family:'Times New Roman', Times, serif;
+    color:azure;
+    font-weight: 400px;   
+} 
+h2 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: azure;
+}
+ul li {
+color: azure;
+}
